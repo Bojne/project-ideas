@@ -20,7 +20,7 @@ const IndexPage = () => ( <Layout>
     <p> yhhuang@minerva.kgi.edu </p>
 
     <Link to = "/page-2/" > Go to page 2 </Link> 
-    </Layout >
+    </Layout>
 )
 
-export default IndexPage
+export default IndexPage    
