@@ -15,6 +15,7 @@ const IndexPage = () => ( <Layout>
         <li> Calltheplay - A website that put project commitment on Blockchain</li>
         <li> Wall of Freinds - Export your facebook friends to a poster</li>
         <li> Booklized - Turn online article into a book.</li>
+	<li> Minerva-Hack - A Hackathon at Minerva. </li> 
     </ul> 
     <p> Email me if you are interested to work on these ideas together, or if you got any comments! </p>
     <p> yhhuang@minerva.kgi.edu </p>
