@@ -9,13 +9,15 @@ const IndexPage = () => ( <Layout>
     <h3>Ideas list:</h3>
     <ul>
         <li> Stayinmydorm - Connecting Minerva, Stanford and Berkley students throught overnight stay in dorms.</li> 
-        <li> Connect RH - Connecting Minerva Residential Hall Common room through video stream.</li> 
+        <li> Global Common Room - Connecting Minerva Residential Hall Common room through video stream.</li> 
         <li> Green Scan - A Computer Vision mobile app that scan my writing on LCD digital writing board.</li> 
         <li> Street Art SF - A website collecting SF street art.</li>  
         <li> Calltheplay - A website that put project commitment on Blockchain</li>
         <li> Wall of Freinds - Export your facebook friends to a poster</li>
         <li> Booklized - Turn online article into a book.</li>
 	<li> Minerva-Hack - A Hackathon at Minerva. </li> 
+	<li> Daily Cloth - An full screen cloth image everday. </li>
+	<li> What Minervan have learned(WMHL) - Shared Events takeways & Oppotunities. (V2.0: Connect other class via common room screen) </li> 
     </ul> 
     <p> Email me if you are interested to work on these ideas together, or if you got any comments! </p>
     <p> yhhuang@minerva.kgi.edu </p>
