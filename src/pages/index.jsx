@@ -212,7 +212,7 @@ const Index = () => (
               Host a Hackathon at Minerva.
             </ProjectCard>
             <ProjectCard
-              title="What You've learned(WYL)"
+              title="What We've learned(WWL)"
               bg="linear-gradient(to right, #e14fad 0%, #f9d423 100%)"
             >
               Share Events takeways and Oppotunities weekly.
