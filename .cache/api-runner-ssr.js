@@ -1,9 +1,12 @@
 var plugins = [{
-      plugin: require('/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
+      plugin: require('/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-emotion/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Cara - Gatsby Starter Portfolio","short_name":"Cara","description":"Playful & Colorful One-Page website with Parallax effect","start_url":"/","background_color":"#a0d8f1","theme_color":"#e07628","display":"fullscreen","icons":[{"src":"/favicons/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/favicons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

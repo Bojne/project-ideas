@@ -1,6 +1,20 @@
 {
     "develop": {
-        "plugins": [],
+        "plugins": [
+            {
+                "name": "babel-plugin-emotion",
+                "options": {
+                    "sourceMap": true,
+                    "autoLabel": true,
+                    "hoist": false,
+                    "plugins": []
+                }
+            },
+            {
+                "name": "babel-plugin-tailwind",
+                "options": {}
+            }
+        ],
         "presets": [],
         "options": {
             "cacheDirectory": true,
@@ -8,7 +22,21 @@
         }
     },
     "develop-html": {
-        "plugins": [],
+        "plugins": [
+            {
+                "name": "babel-plugin-emotion",
+                "options": {
+                    "sourceMap": true,
+                    "autoLabel": true,
+                    "hoist": false,
+                    "plugins": []
+                }
+            },
+            {
+                "name": "babel-plugin-tailwind",
+                "options": {}
+            }
+        ],
         "presets": [],
         "options": {
             "cacheDirectory": true,
@@ -16,7 +44,21 @@
         }
     },
     "build-html": {
-        "plugins": [],
+        "plugins": [
+            {
+                "name": "babel-plugin-emotion",
+                "options": {
+                    "sourceMap": true,
+                    "autoLabel": true,
+                    "hoist": false,
+                    "plugins": []
+                }
+            },
+            {
+                "name": "babel-plugin-tailwind",
+                "options": {}
+            }
+        ],
         "presets": [],
         "options": {
             "cacheDirectory": true,
@@ -24,7 +66,21 @@
         }
     },
     "build-javascript": {
-        "plugins": [],
+        "plugins": [
+            {
+                "name": "babel-plugin-emotion",
+                "options": {
+                    "sourceMap": true,
+                    "autoLabel": true,
+                    "hoist": false,
+                    "plugins": []
+                }
+            },
+            {
+                "name": "babel-plugin-tailwind",
+                "options": {}
+            }
+        ],
         "presets": [],
         "options": {
             "cacheDirectory": true,

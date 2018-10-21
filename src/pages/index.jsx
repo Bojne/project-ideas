@@ -199,6 +199,30 @@ const Index = () => (
             >
               A website collecting SF street art and visualize it as a map.
             </ProjectCard>
+            <ProjectCard
+              title="Call The Play"
+              bg="linear-gradient(to right, #243949 0%, #517fa4 100%)"
+            >
+              A website that propose projects ideas, and store commitment on Blockchain.(So it's there forever)
+            </ProjectCard>
+            <ProjectCard
+              title="Minerva-Hack"
+              bg="linear-gradient(to right, #e8198b 0%, #c7eafd 100%)"
+            >
+              Host a Hackathon at Minerva.
+            </ProjectCard>
+            <ProjectCard
+              title="What You've learned(WYL)"
+              bg="linear-gradient(to right, #e14fad 0%, #f9d423 100%)"
+            >
+              Share Events takeways and Oppotunities weekly.
+            </ProjectCard>
+            <ProjectCard
+              title="Booklized"
+              bg="linear-gradient(to right, #616161 0%, #9bc5c3 100%)"
+            >
+              Turn collected online articles into a printable pdf, with clean auto-layout.
+            </ProjectCard>
           </ProjectsWrapper>
         </Inner>
       </Content>
@@ -250,16 +274,11 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="John Doe" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+            I'm moving on with full passion. Learning, to be a more knowledgeable and experienced human being. 
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-            every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-            make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
-            kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
-            all right?
+            I recognize this trait will still last for the rest of my life, as I move on to San Francisco, Seoul, Hyderabad, Berlin, Buenos Aires, London, Taipei and the world. I brought myself to places I could never imagine, which is I'm extremely thankful to all the people who helped me. My experience empowered me, to feel excited about those unknowns in the future.
           </AboutDesc>
         </Inner>
       </Content>

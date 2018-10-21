@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/ah-bau/Coding-Project/project-ideas/.cache/dev-404-page.js",
+      "component": "/Users/ah-bau/Coding-Project/ideas/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/.cache/dev-404-page.js",
+      "componentPath": "/Users/ah-bau/Coding-Project/ideas/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "165692809a772299d52b24c05a6a7634",
+        "contentDigest": "d29fe97a5f776a0482e48f0b24f4e247",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "24ea5aff3c31d9bc4d51453aff495a79",
+        "contentDigest": "ed2fad29457e9989e0c7d4608b1451fe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a9b0986482d4219b71055f1fa5719e2c",
+        "contentDigest": "6ddbbefddaae981832d1c0fe647179ff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d71aac1a552fe9697bc0eb80e88eee70",
+        "contentDigest": "e6fa0991164de5cce37d91f184c650df",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "951a3e0a2f2094018ddba0a2077ce196",
+        "contentDigest": "7fb6b12b89c107e16bcdccbc47893292",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c80ea65fc173024deb1fde7561c457a1",
+        "contentDigest": "f51ada3746a39d5d53832867745d882f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -272,25 +272,439 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fc5756181610cdd59d0cfee51fed0b7c",
+        "contentDigest": "3d8f7eb9630731deea1ee77cfef4a84b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-emotion": {
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-emotion",
+      "id": "Plugin gatsby-plugin-emotion",
+      "name": "gatsby-plugin-emotion",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "emotion",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "emotion-server",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f1673732fab3c6d90f603f7f371979a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/ah-bau/Coding-Project/ideas/src/images/",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "492c2bae410e35308aac028d0ad11ee4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b750ac231cc973ba57d1f8f4c0140321",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.2"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea5a689dd76fadc3cbf1b0ae8a576cd9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.5",
       "pluginOptions": {
         "plugins": [],
-        "name": "gatsby-starter-default",
-        "short_name": "starter",
+        "name": "Cara - Gatsby Starter Portfolio",
+        "short_name": "Cara",
+        "description": "Playful & Colorful One-Page website with Parallax effect",
         "start_url": "/",
-        "background_color": "#663399",
-        "theme_color": "#663399",
-        "display": "minimal-ui",
-        "icon": "src/images/gatsby-icon.png"
+        "background_color": "#a0d8f1",
+        "theme_color": "#e07628",
+        "display": "fullscreen",
+        "icons": [
+          {
+            "src": "/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
       },
       "nodeAPIs": [
         "onPostBootstrap"
@@ -299,7 +713,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -359,16 +773,16 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f6e07061bafc9ba07e848c2b87437d7a",
+        "contentDigest": "75f97ebfa22d5096d6fa3bb8db877d48",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
-      "version": "2.0.5",
+      "version": "2.0.7",
       "pluginOptions": {
         "plugins": []
       },
@@ -378,15 +792,15 @@
       ],
       "browserAPIs": [
         "registerServiceWorker",
-        "onPrefetchPathname",
+        "onPostPrefetchPathname",
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
-        "version": "2.0.5",
+        "version": "2.0.7",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -435,7 +849,7 @@
         "peerDependencies": [
           {
             "name": "gatsby",
-            "version": ">2.0.0-beta"
+            "version": ">=2.0.20"
           }
         ],
         "optionalDependecies": [],
@@ -444,66 +858,254 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dc0a2d4d4b784f287acdd07a1bd7e4fa",
+        "contentDigest": "a9b4a0028a06c5758a7270b8fa3f693f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify": {
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-netlify",
+      "id": "Plugin gatsby-plugin-netlify",
+      "name": "gatsby-plugin-netlify",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "kebab-hash",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^3.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9288e9980586da88738ca08b64c4a148",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "6ce84ea52c192dfa6ed83a90a23ae50d",
+      "version": "10b502b42b5636a0b2eb133c818cf01f",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [],
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas",
       "packageJson": {
-        "name": "gatsby-starter-default",
-        "description": "Gatsby default starter",
-        "version": "1.0.0",
+        "name": "gatsby-starter-portfolio-cara",
+        "description": "Gatsby Starter Portfolio Cara",
+        "version": "2.0.0",
         "keywords": [
-          "gatsby"
+          "gatsby",
+          "starter",
+          "portfolio"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": "LekoArts <hello@lekoarts.de>",
         "license": "MIT",
         "dependencies": [
           {
+            "name": "babel-plugin-tailwind",
+            "version": "^0.1.10"
+          },
+          {
+            "name": "emotion",
+            "version": "^9.2.12"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^9.2.12"
+          },
+          {
             "name": "gatsby",
-            "version": "^2.0.19"
+            "version": "^2.0.23"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.15"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^2.0.5"
           },
           {
             "name": "gatsby-plugin-manifest",
             "version": "^2.0.5"
           },
           {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.1"
+          },
+          {
             "name": "gatsby-plugin-offline",
-            "version": "^2.0.5"
+            "version": "^2.0.6"
           },
           {
             "name": "gatsby-plugin-react-helmet",
             "version": "^3.0.0"
           },
           {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.3"
+          },
+          {
+            "name": "postcss",
+            "version": "^7.0.5"
+          },
+          {
+            "name": "postcss-cli",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
             "name": "react",
-            "version": "^16.5.1"
+            "version": "^16.5.2"
           },
           {
             "name": "react-dom",
-            "version": "^16.5.1"
+            "version": "^16.5.2"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^9.2.12"
           },
           {
             "name": "react-helmet",
             "version": "^5.2.0"
+          },
+          {
+            "name": "react-spring",
+            "version": "^5.9.2"
+          },
+          {
+            "name": "tailwindcss",
+            "version": "^0.6.6"
+          },
+          {
+            "name": "typeface-cantata-one",
+            "version": "^0.0.54"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "^0.0.54"
           }
         ],
         "devDependencies": [
           {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.7.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.14.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.2"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.11.1"
+          },
+          {
             "name": "prettier",
-            "version": "^1.14.2"
+            "version": "^1.14.3"
           }
         ],
         "peerDependencies": [],
@@ -513,19 +1115,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "efc8dc7840c14cad7a0a18bedd79fa48",
+        "contentDigest": "b100794b75f95b6b409399f2840a2b0a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/ah-bau/Coding-Project/project-ideas/src/pages",
+        "path": "/Users/ah-bau/Coding-Project/ideas/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -533,7 +1135,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/ah-bau/Coding-Project/project-ideas/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/ah-bau/Coding-Project/ideas/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -608,120 +1210,202 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d9910e72c4b1ecdd774d190d8f530154",
+        "contentDigest": "81a927325914e17f54b16d522efb7957",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "siteUrl": "https://portfolio-cara.netlify.com"
       },
-      "port": "8000",
+      "port": 8001,
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-20T23:55:47.356Z",
+      "buildTime": "2018-10-21T00:29:18.591Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4fa84c8a03da7c4f3105f30bc19a4903",
+        "contentDigest": "8956f181b91ab80bcc6ab655bd130096",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
+    "6393d3b8-2290-561b-b8fc-468abd8ad3cc": {
+      "id": "6393d3b8-2290-561b-b8fc-468abd8ad3cc",
       "children": [],
+      "parent": "___SOURCE___",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "98f0509db3a683baa6b742a43e9d8287",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
+        "contentDigest": "ec5e7200ecec3662666194b667f6afca",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ah-bau/Coding-Project/ideas/src/images/",
+      "relativePath": "",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-10-21T00:16:13.000Z",
+      "accessTime": "2018-10-21T00:29:29.000Z",
+      "changeTime": "2018-10-21T00:16:13.000Z",
+      "birthTime": "2018-10-21T00:03:18.000Z",
+      "root": "/",
+      "dir": "/Users/ah-bau/Coding-Project/ideas/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 40054351,
+      "blocks": 0,
+      "atimeMs": 1540081769000,
+      "mtimeMs": 1540080973000,
+      "ctimeMs": 1540080973000,
+      "birthtimeMs": 1540080198000,
+      "atime": "2018-10-21T00:29:29.000Z",
+      "mtime": "2018-10-21T00:16:13.000Z",
+      "ctime": "2018-10-21T00:16:13.000Z",
+      "birthtime": "2018-10-21T00:03:18.000Z"
+    },
+    "ed4c8f30-dc73-54e7-ab82-974d9f8873c8": {
+      "id": "ed4c8f30-dc73-54e7-ab82-974d9f8873c8",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9bec4885c09a08972dd775e16122acaf",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/triangle.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ah-bau/Coding-Project/ideas/src/images/triangle.svg",
+      "relativePath": "triangle.svg",
+      "extension": "svg",
+      "size": 259,
+      "prettySize": "259 B",
+      "modifiedTime": "2018-10-21T00:03:18.000Z",
+      "accessTime": "2018-10-21T00:28:34.000Z",
+      "changeTime": "2018-10-21T00:03:18.000Z",
+      "birthTime": "2018-10-21T00:03:18.000Z",
+      "root": "/",
+      "dir": "/Users/ah-bau/Coding-Project/ideas/src/images",
+      "base": "triangle.svg",
+      "ext": ".svg",
+      "name": "triangle",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 40054353,
+      "blocks": 8,
+      "atimeMs": 1540081714000,
+      "mtimeMs": 1540080198000,
+      "ctimeMs": 1540080198000,
+      "birthtimeMs": 1540080198000,
+      "atime": "2018-10-21T00:28:34.000Z",
+      "mtime": "2018-10-21T00:03:18.000Z",
+      "ctime": "2018-10-21T00:03:18.000Z",
+      "birthtime": "2018-10-21T00:03:18.000Z"
+    },
+    "26d8d3b9-e78e-5859-8069-428b507d9864": {
+      "id": "26d8d3b9-e78e-5859-8069-428b507d9864",
+      "children": [
+        "d3d920b1-d9da-5547-96b9-9a39f3fdc33a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1828b6fbaf622db5e4b03e84ff072516",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/avatar.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ah-bau/Coding-Project/ideas/src/images/avatar.jpg",
+      "relativePath": "avatar.jpg",
+      "extension": "jpg",
+      "size": 28371,
+      "prettySize": "28.4 kB",
+      "modifiedTime": "2018-09-16T22:26:19.000Z",
+      "accessTime": "2018-10-21T00:28:34.000Z",
+      "changeTime": "2018-10-21T00:15:48.000Z",
+      "birthTime": "2018-09-16T22:26:19.000Z",
+      "root": "/",
+      "dir": "/Users/ah-bau/Coding-Project/ideas/src/images",
+      "base": "avatar.jpg",
+      "ext": ".jpg",
+      "name": "avatar",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 40116610,
+      "blocks": 56,
+      "atimeMs": 1540081714000,
+      "mtimeMs": 1537136779000,
+      "ctimeMs": 1540080948000,
+      "birthtimeMs": 1537136779000,
+      "atime": "2018-10-21T00:28:34.000Z",
+      "mtime": "2018-09-16T22:26:19.000Z",
+      "ctime": "2018-10-21T00:15:48.000Z",
+      "birthtime": "2018-09-16T22:26:19.000Z"
+    },
+    "d3d920b1-d9da-5547-96b9-9a39f3fdc33a": {
+      "id": "d3d920b1-d9da-5547-96b9-9a39f3fdc33a",
+      "children": [],
+      "parent": "26d8d3b9-e78e-5859-8069-428b507d9864",
+      "internal": {
+        "contentDigest": "1828b6fbaf622db5e4b03e84ff072516",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "SitePage /": {
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
+      "component": "/Users/ah-bau/Coding-Project/ideas/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/index.js",
+      "componentPath": "/Users/ah-bau/Coding-Project/ideas/src/pages/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0e8fbdcea4fea6982283f0b1662702e",
+        "contentDigest": "f9f49d449ef238d2a10aaaf885b05c86",
         "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "jsonName": "page-2-fbc",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3f6180ae5875e79bdf99480d04bf0c47",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4b8077cc2eec13a052b41ee8c8cb7300",
-        "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4e3bb85b0d58c3de24fd97a96afa60d2"
+    "PLUGINS_HASH": "ef5fa417dbd3544f59e576d9c3f7aaf5"
   },
   "componentDataDependencies": {
-    "nodes": {
-      "Site": [
-        "sq--src-components-layout-js"
-      ]
-    },
+    "nodes": {},
     "connections": {}
   },
   "jsonDataPaths": {
@@ -733,31 +1417,14 @@
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/ah-bau/Coding-Project/project-ideas/.cache/dev-404-page.js": {
+    "/Users/ah-bau/Coding-Project/ideas/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/.cache/dev-404-page.js"
+      "componentPath": "/Users/ah-bau/Coding-Project/ideas/.cache/dev-404-page.js"
     },
-    "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js": {
+    "/Users/ah-bau/Coding-Project/ideas/src/pages/index.jsx": {
       "query": "",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/404.js"
-    },
-    "/Users/ah-bau/Coding-Project/project-ideas/src/pages/index.js": {
-      "query": "",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/index.js"
-    },
-    "/Users/ah-bau/Coding-Project/project-ideas/src/pages/page-2.js": {
-      "query": "",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/pages/page-2.js"
+      "componentPath": "/Users/ah-bau/Coding-Project/ideas/src/pages/index.jsx"
     }
   },
-  "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/ah-bau/Coding-Project/project-ideas/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
-    }
-  }
+  "staticQueryComponents": {}
 }
