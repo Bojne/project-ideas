@@ -1,106 +1,137 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+![](https://i.imgur.com/hWB1XRO.png)
 
-Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
+# Gatsby Starter Portfolio: Cara
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
 
-## 🚀 Quick start
+[Demo Website](https://portfolio-cara.netlify.com/)
 
-1.  **Install the Gatsby CLI.**
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LeKoArts/gatsby-starter-portfolio-cara)
 
-    The Gatsby CLI helps you create new sites using Gatsby starters (like this one!)
+- TailwindCSS & Emotion
+- React Spring
+- Playful & Colorful One-Page website with Parallax effect
 
-    ```sh
-    # install the Gatsby CLI globally
-    npm install -g gatsby-cli
-    ```
+Based on [gatsby-tailwind-demo](https://github.com/jlengstorf/gatsby-tailwind-demo).
 
-2.  **Create a Gatsby site.**
+## Why?
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+If you want to quickly bootstrap a design/photography portfolio or use it as a foundation for your personal site the *gatsby-starter-portfolio* are a perfect fit for you! The project's goal is to offer minimalistic and fast websites. 
 
-    ```sh
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter
-    ```
+I hope you like my starters and create something awesome! To see some of my work you can visit my [website](https://www.lekoarts.de) or support me on [Patreon](https://www.patreon.com/lekoarts) to get some neat rewards (4K images, project files, tutorial insights). Every pledge on Patreon helps me creating more free starters!
 
-3.  **Start developing.**
+Also check out the other *gatsby-starter-portfolio*:
+- [gatsby-starter-portfolio-emma](https://github.com/LeKoArts/gatsby-starter-portfolio-emma)
+- [gatsby-starter-portfolio-emilia](https://github.com/LeKoArts/gatsby-starter-portfolio-emilia)
+- [gatsby-starter-portfolio-bella](https://github.com/LeKoArts/gatsby-starter-portfolio-bella)
 
-    Navigate into your new site’s directory and start it up.
+Check out the [Gatsby Starter Portfolio Overview](https://gatsby-starter-portfolio.netlify.com/)!
 
-    ```sh
-    cd my-default-starter/
-    gatsby develop
-    ```
+## Features
 
-4.  **Open the source code and start editing!**
+- Gatsby v2.0.0
+- [React Spring](https://github.com/drcmda/react-spring) (Used for Parallax effect)
+- [TailwindCSS](https://tailwindcss.com/) & [Emotion](https://emotion.sh/) for styling
+    - Use the full power of TailwindCSS while generating small styles (as unused data gets deleted)
+- SEO
+    - Schema.org JSONLD
+    - OpenGraph Tags
+    - Twitter Tags
+- [Typefaces](https://github.com/KyleAMathews/typefaces) for quicker font loading
+- Offline Support
+- WebApp Manifest Support
+- Responsive images
+    - The right image size for every screen size
+    - Traced SVG Loading (Lazy-Loading)
+    - WebP Support
 
-    Your site is now running at `http://localhost:8000`!
-    
-    *Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).*
-    
-    Open the the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-    
-## 🧐 What's inside?
+**Please note:** The parallax effect can be quite heavy for some older CPUs and the site uses some newer CSS features which will result in incompatibility with older browsers.
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+## Getting Started
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    └── yarn.lock
+Check your development environment! You'll need [Node.js](https://nodejs.org/en/), the [Gatsby CLI](https://www.gatsbyjs.org/docs/) and [node-gyp](https://github.com/nodejs/node-gyp#installation) installed. The official Gatsby website also lists two articles regarding this topic:
+- [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
+- [Check your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)
 
-  1.  **`/node_modules`**: The directory where all of the modules of code that your project depends on (npm packages) are automatically installed.  
-  
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “Src” is a convention for “source code”.
-  
-  3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-  
-  4.  **`.prettierrc`**: This is a configuration file for a tool called [Prettier](https://prettier.io/), which is a tool to help keep the formatting of your code consistent.
-  
-  5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-  
-  6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
-  
-  7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-  
-  8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-  
-  9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
-  
-  10.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. (You won’t change this file directly).
-  
-  11.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-  
-  12.  **`README.md`**: A text file containing useful reference information about your project.
-  
-  13.  **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm.  This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.
+To copy and install this starter run this command (with "project-name" being the name of your folder you wish to install it in):
 
-## 🎓 Learning Gatsby
+```
+gatsby new project-name https://github.com/LeKoArts/gatsby-starter-portfolio-cara
+cd project-name
+npm run develop
+```
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+### Adding new features/plugins
 
--   **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+You can add other features by having a look at the offical [plugins page](https://www.gatsbyjs.org/docs/plugins/)
 
--   **To dive straight into code samples head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the “Guides”, API reference, and “Advanced Tutorials” sections in the sidebar.
+### Building your site
 
-## 💫 Deploy
+```
+npm run build
+```
+Copy the content of the ``public`` folder to your webhost or use a website like Netlify which automates that for you.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Make sure to use the right build command in your build settings e.g. if you use Netlify!
+Per default Netlify sets it to `gatsby build` but you have to use `yarn run build` to run postcss before building the Gatsby site.
+
+## Configuration
+
+You have multiple options to configure this project.
+
+1) Use the `config/website.js` to configure data passed to the SEO component and other parts of the Gatsby site:
+
+```JS
+module.exports = {
+  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
+
+  siteTitle: 'Cara - Gatsby Starter Portfolio', // Navigation and Site Title
+  siteTitleAlt: 'Cara', // Alternative Site title for SEO
+  siteUrl: 'https://portfolio-cara.netlify.com', // Domain of your site. No trailing slash!
+  siteLanguage: 'en', // Language Tag on <html> element
+  siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
+  siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
+
+  // siteFBAppID: '123456789', // Facebook App ID - Optional
+  userTwitter: '@cara', // Twitter Username
+  ogSiteName: 'cara', // Facebook Site Name
+  ogLanguage: 'en_US', // Facebook Language
+
+  // Manifest and Progress color
+  themeColor: tailwind.colors.orange,
+  backgroundColor: tailwind.colors.blue,
+};
+```
+
+2) Use the `tailwind.js` file to configure TailwindCSS. Their [documentation](https://tailwindcss.com/docs/configuration) explains it step-by-setp.
+
+3) Modify the files in the `src/styles` directory.
+
+4) You can also place the icons somewhere else on the page, modify their animation and hide them on smaller screens:
+
+```JSX
+  <SVG icon="triangle" className={hidden} width={48} stroke={colors.orange} left="10%" top="20%" />
+  <SVG icon="hexa" width={48} stroke={colors.red} left="60%" top="70%" />
+  <SVG icon="box" width={6} fill={colors['grey-darker']} left="60%" top="15%" />
+```
+
+- For `icon` you have the options: `triangle, circle, arrowUp, upDown, box, hexa`
+- If you want the SVG to be hidden on mobile view, add the `className={hidden}`
+- You can define the width via the TailwindCSS width [option](https://tailwindcss.com/docs/width)
+- The colors get defined via the TailwindCSS color [option](https://tailwindcss.com/docs/colors)
+    - Please note that you will either have to define the color in `stroke` **or** `fill` depending on the icon. For referance have a look at the currently used SVGs
+- The options `left` and `top` position the icon relatively to its parent container
+- You can also wrap the SVGs with `<UpDown />` or `<UpDownWide />` to animate them
+
+### Typography
+
+Instead of relying on Google's CDN to host its fonts this site self-hosts the fonts and therefore profits from increased performance. The installed fonts can be found in `src/pages/index.jsx`:
+
+```JSX
+import 'typeface-cantata-one';
+import 'typeface-open-sans';
+```
+
+We use [typefaces](https://github.com/KyleAMathews/typefaces) by Kyle Mathews. Have a look at the repository if you want to install & use other fonts.
+
+You'll also need to configure `fonts` in `tailwind.js` to reflect the changes. You then can use the fonts with `font-sans` and `font-serif`.
