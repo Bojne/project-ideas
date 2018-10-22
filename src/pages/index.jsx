@@ -188,7 +188,6 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="Scan LCD"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
               A Computer Vision mobile app that scan my writing on LCD digital writing board.
@@ -213,6 +212,7 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="What We've learned(WWL)"
+              link="https://www.notion.so/yhhuang/What-We-ve-Learned-ab4b51bb1bfd494daab9427eb7a0c456"
               bg="linear-gradient(to right, #e14fad 0%, #f9d423 100%)"
             >
               Share Events takeways and Oppotunities weekly.
